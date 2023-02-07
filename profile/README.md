@@ -15,6 +15,8 @@ This is a private project by Ralph Kuepper. Every source code for this project i
   - Lambda: Javascript / Nodejs
   - iOS App: Swift
   - Android App: Kotlin
+ - Caching
+  - https://caching.guru 
 
 ## Questions or thoughts?
 Just email info@metaradar.io or open a ticket 😎
